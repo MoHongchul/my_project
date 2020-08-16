@@ -1,0 +1,363 @@
+<tr>
+<th class="bg txt title">매출액</th>
+<td class="num line"><span class="cBk">11,287</span></td>
+<td class="num line"><span class="cBk">13,208</span></td>
+<td class="num line"><span class="cBk">14,622</span></td>
+<td class="num line"><span class="cBk">15,188</span></td>
+<td class="num line"><span class="cBk">14,804</span></td>
+<td class="num bgE line"><span class="cBk">15,693</span></td>
+<td class="num bgE line"><span class="cBk">16,501</span></td>
+<td class="num bgE noline-right"><span class="cBk">17,264</span></td>
+</tr>
+<tr>
+<th class="bg txt title">영업이익</th>
+<td class="num line"><span class="cBk">858</span></td>
+<td class="num line"><span class="cBk">978</span></td>
+<td class="num line"><span class="cBk">887</span></td>
+<td class="num line"><span class="cBk">501</span></td>
+<td class="num line"><span class="cBk">125</span></td>
+<td class="num bgE line"><span class="cBk">731</span></td>
+<td class="num bgE line"><span class="cBk">743</span></td>
+<td class="num bgE noline-right"><span class="cBk">743</span></td>
+</tr>
+<tr>
+<th class="bg txt title">영업이익(발표기준)</th>
+<td class="num line"><span class="cBk">858</span></td>
+<td class="num line"><span class="cBk">978</span></td>
+<td class="num line"><span class="cBk">887</span></td>
+<td class="num line"><span class="cBk">501</span></td>
+<td class="num line"><span class="cBk">125</span></td>
+<td class="num bgE line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE noline-right"></td>
+</tr>
+<tr>
+<th class="bg txt title">세전계속사업이익</th>
+<td class="num line"><span class="cBk">1,683</span></td>
+<td class="num line"><span class="cBk">2,049</span></td>
+<td class="num line"><span class="cBk">1,449</span></td>
+<td class="num line"><span class="cBk">894</span></td>
+<td class="num line"><span class="cBk">549</span></td>
+<td class="num bgE line"><span class="cBk">2,843</span></td>
+<td class="num bgE line"><span class="cBk">1,526</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,447</span></td>
+</tr>
+<tr>
+<th class="bg txt title">당기순이익</th>
+<td class="num line"><span class="cBk">1,260</span></td>
+<td class="num line"><span class="cBk">1,612</span></td>
+<td class="num line"><span class="cBk">1,096</span></td>
+<td class="num line"><span class="cBk">583</span></td>
+<td class="num line"><span class="cBk">366</span></td>
+<td class="num bgE line"><span class="cBk">2,023</span></td>
+<td class="num bgE line"><span class="cBk">1,131</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,069</span></td>
+</tr>
+<tr>
+<th class="bg txt title">  당기순이익(지배)</th>
+<td class="num line"><span class="cBk">1,260</span></td>
+<td class="num line"><span class="cBk">1,612</span></td>
+<td class="num line"><span class="cBk">1,090</span></td>
+<td class="num line"><span class="cBk">575</span></td>
+<td class="num line"><span class="cBk">400</span></td>
+<td class="num bgE line"><span class="cBk">1,975</span></td>
+<td class="num bgE line"><span class="cBk">1,154</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,108</span></td>
+</tr>
+<tr>
+<th class="bg txt title">  당기순이익(비지배)</th>
+<td class="num line"></td>
+<td class="num line"></td>
+<td class="num line"><span class="cBk">6</span></td>
+<td class="num line"><span class="cBk">9</span></td>
+<td class="num line"><span class="cUp">-34</span></td>
+<td class="num bgE line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE noline-right"></td>
+</tr>
+<tr>
+<th class="bg txt title">자산총계</th>
+<td class="num line"><span class="cBk">18,803</span></td>
+<td class="num line"><span class="cBk">20,459</span></td>
+<td class="num line"><span class="cBk">20,947</span></td>
+<td class="num line"><span class="cBk">21,738</span></td>
+<td class="num line"><span class="cBk">21,172</span></td>
+<td class="num bgE line"><span class="cBk">23,315</span></td>
+<td class="num bgE line"><span class="cBk">23,844</span></td>
+<td class="num bgE noline-right"><span class="cBk">24,551</span></td>
+</tr>
+<tr>
+<th class="bg txt title">부채총계</th>
+<td class="num line"><span class="cBk">5,164</span></td>
+<td class="num line"><span class="cBk">5,494</span></td>
+<td class="num line"><span class="cBk">4,883</span></td>
+<td class="num line"><span class="cBk">5,221</span></td>
+<td class="num line"><span class="cBk">4,672</span></td>
+<td class="num bgE line"><span class="cBk">5,009</span></td>
+<td class="num bgE line"><span class="cBk">5,144</span></td>
+<td class="num bgE noline-right"><span class="cBk">5,387</span></td>
+</tr>
+<tr>
+<th class="bg txt title">자본총계</th>
+<td class="num line"><span class="cBk">13,639</span></td>
+<td class="num line"><span class="cBk">14,966</span></td>
+<td class="num line"><span class="cBk">16,063</span></td>
+<td class="num line"><span class="cBk">16,517</span></td>
+<td class="num line"><span class="cBk">16,500</span></td>
+<td class="num bgE line"><span class="cBk">18,306</span></td>
+<td class="num bgE line"><span class="cBk">18,700</span></td>
+<td class="num bgE noline-right"><span class="cBk">19,165</span></td>
+</tr>
+<tr>
+<th class="bg txt title">  자본총계(지배)</th>
+<td class="num line"><span class="cBk">13,639</span></td>
+<td class="num line"><span class="cBk">14,966</span></td>
+<td class="num line"><span class="cBk">16,000</span></td>
+<td class="num line"><span class="cBk">16,417</span></td>
+<td class="num line"><span class="cBk">16,463</span></td>
+<td class="num bgE line"><span class="cBk">18,348</span></td>
+<td class="num bgE line"><span class="cBk">18,784</span></td>
+<td class="num bgE noline-right"><span class="cBk">19,294</span></td>
+</tr>
+<tr>
+<th class="bg txt title">  자본총계(비지배)</th>
+<td class="num line"></td>
+<td class="num line"></td>
+<td class="num line"><span class="cBk">63</span></td>
+<td class="num line"></td>
+<td class="num line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE noline-right"></td>
+</tr>
+<tr>
+<th class="bg txt title">자본금</th>
+<td class="num line"><span class="cBk">569</span></td>
+<td class="num line"><span class="cBk">569</span></td>
+<td class="num line"><span class="cBk">595</span></td>
+<td class="num line"><span class="cBk">622</span></td>
+<td class="num line"><span class="cBk">651</span></td>
+<td class="num bgE line"><span class="cBk">1,017</span></td>
+<td class="num bgE line"><span class="cBk">1,017</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,017</span></td>
+</tr>
+<tr>
+<th class="bg txt title">영업활동현금흐름</th>
+<td class="num line"><span class="cBk">1,262</span></td>
+<td class="num line"><span class="cBk">741</span></td>
+<td class="num line"><span class="cBk">1,261</span></td>
+<td class="num line"><span class="cBk">935</span></td>
+<td class="num line"><span class="cBk">660</span></td>
+<td class="num bgE line"><span class="cBk">1,014</span></td>
+<td class="num bgE line"><span class="cBk">1,459</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,260</span></td>
+</tr>
+<tr>
+<th class="bg txt title">투자활동현금흐름</th>
+<td class="num line"><span class="cUp">-1,178</span></td>
+<td class="num line"><span class="cUp">-771</span></td>
+<td class="num line"><span class="cUp">-422</span></td>
+<td class="num line"><span class="cUp">-582</span></td>
+<td class="num line"><span class="cBk">316</span></td>
+<td class="num bgE line"><span class="cBk">730</span></td>
+<td class="num bgE line"><span class="cBk">38</span></td>
+<td class="num bgE noline-right"><span class="cUp">-33</span></td>
+</tr>
+<tr>
+<th class="bg txt title">재무활동현금흐름</th>
+<td class="num line"><span class="cBk">574</span></td>
+<td class="num line"><span class="cBk">233</span></td>
+<td class="num line"><span class="cUp">-682</span></td>
+<td class="num line"><span class="cUp">-514</span></td>
+<td class="num line"><span class="cUp">-670</span></td>
+<td class="num bgE line"><span class="cBk">59</span></td>
+<td class="num bgE line"><span class="cUp">-623</span></td>
+<td class="num bgE noline-right"><span class="cUp">-648</span></td>
+</tr>
+<tr>
+<th class="bg txt title">CAPEX</th>
+<td class="num line"><span class="cBk">813</span></td>
+<td class="num line"><span class="cBk">801</span></td>
+<td class="num line"><span class="cBk">568</span></td>
+<td class="num line"><span class="cBk">460</span></td>
+<td class="num line"><span class="cBk">428</span></td>
+<td class="num bgE line"><span class="cBk">230</span></td>
+<td class="num bgE line"><span class="cBk">165</span></td>
+<td class="num bgE noline-right"><span class="cBk">163</span></td>
+</tr>
+<tr>
+<th class="bg txt title">FCF</th>
+<td class="num line"><span class="cBk">450</span></td>
+<td class="num line"><span class="cUp">-59</span></td>
+<td class="num line"><span class="cBk">694</span></td>
+<td class="num line"><span class="cBk">474</span></td>
+<td class="num line"><span class="cBk">232</span></td>
+<td class="num bgE line"><span class="cBk">57</span></td>
+<td class="num bgE line"><span class="cBk">790</span></td>
+<td class="num bgE noline-right"><span class="cBk">724</span></td>
+</tr>
+<tr>
+<th class="bg txt title">이자발생부채</th>
+<td class="num line"><span class="cBk">1,516</span></td>
+<td class="num line"><span class="cBk">1,966</span></td>
+<td class="num line"><span class="cBk">1,338</span></td>
+<td class="num line"><span class="cBk">1,186</span></td>
+<td class="num line"><span class="cBk">915</span></td>
+<td class="num bgE line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE noline-right"></td>
+</tr>
+<tr>
+<th class="bg txt title">영업이익률</th>
+<td class="num line"><span class="cBk">7.61</span></td>
+<td class="num line"><span class="cBk">7.40</span></td>
+<td class="num line"><span class="cBk">6.07</span></td>
+<td class="num line"><span class="cBk">3.30</span></td>
+<td class="num line"><span class="cBk">0.85</span></td>
+<td class="num bgE line"><span class="cBk">4.66</span></td>
+<td class="num bgE line"><span class="cBk">4.50</span></td>
+<td class="num bgE noline-right"><span class="cBk">4.31</span></td>
+</tr>
+<tr>
+<th class="bg txt title">순이익률</th>
+<td class="num line"><span class="cBk">11.17</span></td>
+<td class="num line"><span class="cBk">12.21</span></td>
+<td class="num line"><span class="cBk">7.50</span></td>
+<td class="num line"><span class="cBk">3.84</span></td>
+<td class="num line"><span class="cBk">2.47</span></td>
+<td class="num bgE line"><span class="cBk">12.89</span></td>
+<td class="num bgE line"><span class="cBk">6.85</span></td>
+<td class="num bgE noline-right"><span class="cBk">6.19</span></td>
+</tr>
+<tr>
+<th class="bg txt title">ROE(%)</th>
+<td class="num line"><span class="cBk">9.55</span></td>
+<td class="num line"><span class="cBk">11.27</span></td>
+<td class="num line"><span class="cBk">7.04</span></td>
+<td class="num line"><span class="cBk">3.55</span></td>
+<td class="num line"><span class="cBk">2.43</span></td>
+<td class="num bgE line"><span class="cBk">11.35</span></td>
+<td class="num bgE line"><span class="cBk">6.21</span></td>
+<td class="num bgE noline-right"><span class="cBk">5.82</span></td>
+</tr>
+<tr>
+<th class="bg txt title">ROA(%)</th>
+<td class="num line"><span class="cBk">7.21</span></td>
+<td class="num line"><span class="cBk">8.21</span></td>
+<td class="num line"><span class="cBk">5.30</span></td>
+<td class="num line"><span class="cBk">2.73</span></td>
+<td class="num line"><span class="cBk">1.71</span></td>
+<td class="num bgE line"><span class="cBk">9.09</span></td>
+<td class="num bgE line"><span class="cBk">4.80</span></td>
+<td class="num bgE noline-right"><span class="cBk">4.42</span></td>
+</tr>
+<tr>
+<th class="bg txt title">부채비율</th>
+<td class="num line"><span class="cBk">37.86</span></td>
+<td class="num line"><span class="cBk">36.71</span></td>
+<td class="num line"><span class="cBk">30.40</span></td>
+<td class="num line"><span class="cBk">31.61</span></td>
+<td class="num line"><span class="cBk">28.32</span></td>
+<td class="num bgE line"><span class="cBk">27.36</span></td>
+<td class="num bgE line"><span class="cBk">27.51</span></td>
+<td class="num bgE noline-right"><span class="cBk">28.11</span></td>
+</tr>
+<tr>
+<th class="bg txt title">자본유보율</th>
+<td class="num line"><span class="cBk">2,439.83</span></td>
+<td class="num line"><span class="cBk">2,681.45</span></td>
+<td class="num line"><span class="cBk">2,707.01</span></td>
+<td class="num line"><span class="cBk">2,650.39</span></td>
+<td class="num line"><span class="cBk">2,547.07</span></td>
+<td class="num bgE line"></td>
+<td class="num bgE line"></td>
+<td class="num bgE noline-right"></td>
+</tr>
+<tr>
+<th class="bg txt title">EPS(원)</th>
+<td class="num line"><span class="cBk">1,853</span></td>
+<td class="num line"><span class="cBk">2,370</span></td>
+<td class="num line"><span class="cBk">1,603</span></td>
+<td class="num line"><span class="cBk">845</span></td>
+<td class="num line"><span class="cBk">588</span></td>
+<td class="num bgE line"><span class="cBk">2,902</span></td>
+<td class="num bgE line"><span class="cBk">1,696</span></td>
+<td class="num bgE noline-right"><span class="cBk">1,628</span></td>
+</tr>
+<tr>
+<th class="bg txt title">PER(배)</th>
+<td class="num line"><span class="cBk">24.74</span></td>
+<td class="num line"><span class="cBk">14.78</span></td>
+<td class="num line"><span class="cBk">25.04</span></td>
+<td class="num line"><span class="cBk">46.35</span></td>
+<td class="num line"><span class="cBk">80.44</span></td>
+<td class="num bgE line"><span class="cBk">22.77</span></td>
+<td class="num bgE line"><span class="cBk">38.98</span></td>
+<td class="num bgE noline-right"><span class="cBk">40.60</span></td>
+</tr>
+<tr>
+<th class="bg txt title">BPS(원)</th>
+<td class="num line"><span class="cBk">21,848</span></td>
+<td class="num line"><span class="cBk">23,983</span></td>
+<td class="num line"><span class="cBk">25,448</span></td>
+<td class="num line"><span class="cBk">26,230</span></td>
+<td class="num line"><span class="cBk">26,384</span></td>
+<td class="num bgE line"><span class="cBk">29,440</span></td>
+<td class="num bgE line"><span class="cBk">30,139</span></td>
+<td class="num bgE noline-right"><span class="cBk">30,958</span></td>
+</tr>
+<tr>
+<th class="bg txt title">PBR(배)</th>
+<td class="num line"><span class="cBk">2.10</span></td>
+<td class="num line"><span class="cBk">1.46</span></td>
+<td class="num line"><span class="cBk">1.58</span></td>
+<td class="num line"><span class="cBk">1.49</span></td>
+<td class="num line"><span class="cBk">1.79</span></td>
+<td class="num bgE line"><span class="cBk">2.25</span></td>
+<td class="num bgE line"><span class="cBk">2.19</span></td>
+<td class="num bgE noline-right"><span class="cBk">2.14</span></td>
+</tr>
+<tr>
+<th class="bg txt title">현금DPS(원)</th>
+<td class="num line"><span class="cBk">334</span></td>
+<td class="num line"><span class="cBk">334</span></td>
+<td class="num line"><span class="cBk">349</span></td>
+<td class="num line"><span class="cBk">365</span></td>
+<td class="num line"><span class="cBk">382</span></td>
+<td class="num bgE line"><span class="cBk">385</span></td>
+<td class="num bgE line"><span class="cBk">385</span></td>
+<td class="num bgE noline-right"><span class="cBk">385</span></td>
+</tr>
+<tr>
+<th class="bg txt title">현금배당수익률</th>
+<td class="num line"><span class="cBk">0.73</span></td>
+<td class="num line"><span class="cBk">0.95</span></td>
+<td class="num line"><span class="cBk">0.87</span></td>
+<td class="num line"><span class="cBk">0.93</span></td>
+<td class="num line"><span class="cBk">0.81</span></td>
+<td class="num bgE line"><span class="cBk">0.58</span></td>
+<td class="num bgE line"><span class="cBk">0.58</span></td>
+<td class="num bgE noline-right"><span class="cBk">0.58</span></td>
+</tr>
+<tr>
+<th class="bg txt title">현금배당성향(%)</th>
+<td class="num line"><span class="cBk">16.30</span></td>
+<td class="num line"><span class="cBk">12.74</span></td>
+<td class="num line"><span class="cBk">19.95</span></td>
+<td class="num line"><span class="cBk">39.53</span></td>
+<td class="num line"><span class="cBk">59.44</span></td>
+<td class="num bgE line"><span class="cBk">13.03</span></td>
+<td class="num bgE line"><span class="cBk">22.31</span></td>
+<td class="num bgE noline-right"><span class="cBk">23.24</span></td>
+</tr>
+<tr>
+<th class="bg txt title line-bottom">발행주식수(보통주)</th>
+<td class="num line line-bottom"><span class="cBk">66,856,810</span></td>
+<td class="num line line-bottom"><span class="cBk">66,856,810</span></td>
+<td class="num line line-bottom"><span class="cBk">66,856,810</span></td>
+<td class="num line line-bottom"><span class="cBk">66,856,810</span></td>
+<td class="num line line-bottom"><span class="cBk">66,856,810</span></td>
+<td class="num bgE line line-bottom"></td>
+<td class="num bgE line line-bottom"></td>
+<td class="num bgE noline-right line-bottom"></td>
+</tr>
